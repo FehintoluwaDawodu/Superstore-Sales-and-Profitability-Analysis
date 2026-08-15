@@ -1,12 +1,10 @@
-# Superstore-Sales-and-Profitability-Analysis
-This project uses Microsoft Power BI to analyze the Superstore sales dataset and transform business data into actionable insights for decision-making
 # Superstore Sales & Profitability Analysis
 
-![Power BI]()
+![Power BI](https://github.com/FehintoluwaDawodu/Superstore-Sales-and-Profitability-Analysis/blob/main/Superstore%20Analysis.pbix)
 ![Business Intelligence](https://github.com/FehintoluwaDawodu/Superstore-Sales-and-Profitability-Analysis/blob/main/Business%20Intelligence%20Report.pptx)
-![Status](https://img.shields.io/badge/Status-Completed-18A999)
+![Business Intelligence Overview](https://github.com/FehintoluwaDawodu/Superstore-Sales-and-Profitability-Analysis/blob/main/BUSINESS%20INTELLIGENCE%20REPORT.docx)
 
-## 📊 Project Overview
+##  Project Overview
 
 This project applies **Business Intelligence (BI)** principles and **Microsoft Power BI** to the Superstore sales dataset. The objective is to transform business data into actionable insights that support evidence-based decision-making.
 
@@ -16,7 +14,7 @@ The analysis evaluates sales, profitability, products, customer segments, region
 Click the link: [Superstore sales dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 
-## 🎯 Business Objective
+## Business Objective
 
 The primary objective is to evaluate sales and profitability performance and generate insights that can support better business decisions.
 
@@ -30,7 +28,7 @@ The analysis addresses:
 - Loss-making areas and business risks
 - Opportunities for improving profitability and sustainable growth
 
-## ❓ Key Business Questions
+## Key Business Questions
 
 1. How have sales and profit changed over time?
 2. Which products and categories generate the highest sales?
@@ -95,7 +93,7 @@ The final page translates analysis into business action using:
 - The **Consumer** segment contributed approximately **50.6% of total sales**.
 - Key Influencers analysis identified **Paper** as an important factor associated with higher profit margin relative to the baseline.
 
-## 🚨 Business Risks & Opportunities
+## Business Risks & Opportunities
 
 ### Risks
 
@@ -127,40 +125,8 @@ The final page translates analysis into business action using:
 - KPI development
 - Interactive dashboard design
 - Business Intelligence analysis
-- Data storytelling
-- Executive reporting
+- Data storytelling- Executive reporting
 
-## 📁 Repository Structure
-
-```text
-Superstore-Sales-Profitability-Analysis/
-│
-├── README.md
-│
-├── dashboard/
-│   └── screenshots/
-│       ├── executive_sales_overview.png
-│       ├── product_profitability_analysis.png
-│       └── executive_insights_recommendations.png
-│
-├── docs/
-│   ├── AnalystLab_Africa_Week2_Assignment_Brief.pdf
-│   ├── presentation/
-│   │   └── Superstore_Executive_BI_Presentation.pptx
-│   └── report/
-│       └── Business_Intelligence_Overview_Report.docx
-│
-└── data/
-    └── README.md
-```
-
-## 📚 Project Context
-
-This project was completed as part of a **Data Analytics / Business Intelligence assignment with AnalystLab Africa**, demonstrating the use of BI dashboards to move from raw business data to actionable recommendations.
-
-## 📌 Note on the Dataset
-
-The original dataset is not included in this repository. The analysis was performed using the Superstore sales dataset supplied for the project. Please use the appropriate source/licensing terms when redistributing the raw dataset.
 
 ## 👤 Author
 
