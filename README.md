@@ -2,7 +2,7 @@
 This project uses Microsoft Power BI to analyze the Superstore sales dataset and transform business data into actionable insights for decision-making
 # Superstore Sales & Profitability Analysis
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Power BI]()
 ![Business Intelligence](https://github.com/FehintoluwaDawodu/Superstore-Sales-and-Profitability-Analysis/blob/main/Business%20Intelligence%20Report.pptx)
 ![Status](https://img.shields.io/badge/Status-Completed-18A999)
 
@@ -11,6 +11,10 @@ This project uses Microsoft Power BI to analyze the Superstore sales dataset and
 This project applies **Business Intelligence (BI)** principles and **Microsoft Power BI** to the Superstore sales dataset. The objective is to transform business data into actionable insights that support evidence-based decision-making.
 
 The analysis evaluates sales, profitability, products, customer segments, regions and trends over time, while identifying business risks, opportunities and management actions.
+
+## Data Source
+Click the link: [Superstore sales dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
 
 ## 🎯 Business Objective
 
