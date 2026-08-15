@@ -3,7 +3,7 @@ This project uses Microsoft Power BI to analyze the Superstore sales dataset and
 # Superstore Sales & Profitability Analysis
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Analytics-1677D2)
+![Business Intelligence](https://github.com/FehintoluwaDawodu/Superstore-Sales-and-Profitability-Analysis/blob/main/Business%20Intelligence%20Report.pptx)
 ![Status](https://img.shields.io/badge/Status-Completed-18A999)
 
 ## 📊 Project Overview
@@ -55,7 +55,7 @@ The first dashboard page provides a high-level view of business performance thro
 - Regional Sales & Profit Performance
 - Sales by State
 
-![Executive Sales Overview](https://github.com/FehintoluwaDawodu/Superstore-Sales-and-Profitability-Analysis/blob/main/Executive%20Sales%20Overview.png)
+![Executive Sales Overview](https://github.com/FehintoluwaDawodu/Superstore-Sales-and-Profitability-Analysis/blob/main/Executive%20sales%20Overview.png)
 
 ### 2. Product & Profitability Analysis
 
@@ -66,7 +66,7 @@ This page focuses on understanding the relationship between sales and profitabil
 - Profitability by Sub-category
 - Sales vs Profitability by Sub-category
 
-![Product and Profitability Analysis](https://github.com/FehintoluwaDawodu/Superstore-Sales-and-Profitability-Analysis/blob/main/Product%20and%20Profitability%20analysis.png)
+![Product and Profitability Analysis](https://github.com/FehintoluwaDawodu/Superstore-Sales-and-Profitability-Analysis/blob/main/Product%20and%20profitability.png)
 
 ### 3. Executive Insights & Recommendations
 
