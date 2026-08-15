@@ -55,7 +55,7 @@ The first dashboard page provides a high-level view of business performance thro
 - Regional Sales & Profit Performance
 - Sales by State
 
-![Executive Sales Overview](dashboard/screenshots/executive_sales_overview.png)
+![Executive Sales Overview](https://github.com/FehintoluwaDawodu/Superstore-Sales-and-Profitability-Analysis/blob/main/Executive%20Sales%20Overview.png)
 
 ### 2. Product & Profitability Analysis
 
@@ -66,7 +66,7 @@ This page focuses on understanding the relationship between sales and profitabil
 - Profitability by Sub-category
 - Sales vs Profitability by Sub-category
 
-![Product and Profitability Analysis](dashboard/screenshots/product_profitability_analysis.png)
+![Product and Profitability Analysis](https://github.com/FehintoluwaDawodu/Superstore-Sales-and-Profitability-Analysis/blob/main/Product%20and%20Profitability%20analysis.png)
 
 ### 3. Executive Insights & Recommendations
 
@@ -78,7 +78,7 @@ The final page translates analysis into business action using:
 - Business opportunities
 - Management recommendations
 
-![Executive Insights & Recommendations](dashboard/screenshots/executive_insights_recommendations.png)
+![Executive Insights & Recommendations](https://github.com/FehintoluwaDawodu/Superstore-Sales-and-Profitability-Analysis/blob/main/Key%20Influencers%20for%20sales.png)
 
 ## 💡 Key Insights
 
